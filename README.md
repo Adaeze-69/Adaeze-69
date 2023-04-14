@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AWS and Azure Cloud Practitioner.<br>I am currently working on becoming a Solutions Architect.<br>I am looking for help with landing an internship role to put into use all I have learnt and still learning with my technical knowledge in the cloud.<br>I am currently learning Python.<br>Ask me about anything concerning Cloud Practitioner resources and I will be happy to help..<br>Fun fact about me: I love visiting the social profiles of veterans in my career to read and learn from them.<br><br><br>
+I am an AWS and Azure Cloud Practitioner.<br>I am currently working on becoming a Solutions Architect.<br>I am looking for help with landing an internship role to put into use all I have learnt and still learning with my technical knowledge in the cloud.<br>I am currently learning Python programming language.<br>Ask me about anything concerning Cloud Practitioner resources and I will be happy to help..<br>Fun fact about me: I love visiting the social profiles of veterans in my career to read and learn from them.<br><br><br>
 
 
 ## 🌐 Socials:
